@@ -10,10 +10,10 @@ Moving the Turtle will be done with the "Up" arrow key.
 
 Game Over - the game is finished if the Turtle has hit a Car.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44847490/212958893-fe23766a-2267-4901-a5c3-709f72c8021d.gif)
+
+
 ### Python version:
 3.10.7
 ### PyCharm version:
 2022.2.1, Community edition
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/44847490/212958893-fe23766a-2267-4901-a5c3-709f72c8021d.gif)
